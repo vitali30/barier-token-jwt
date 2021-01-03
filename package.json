@@ -1,0 +1,22 @@
+{
+  "name": "barier-token-jwt",
+  "version": "1.0.0",
+  "description": "Hello world again",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitali30/barier-token-jwt.git"
+  },
+  "author": "Vitali30",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitali30/barier-token-jwt/issues"
+  },
+  "homepage": "https://github.com/vitali30/barier-token-jwt#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
